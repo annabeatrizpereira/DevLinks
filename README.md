@@ -3,7 +3,11 @@
 > <h3>Description 💬</h3>
 
 - DevLinks it's a simple project to group important links you might have, and your main social media.
-- You can use it anywhere, like at your Instagram's biography.
+- You can use it anywhere, for example, at your Instagram's biography.
+
+<p align="center">
+  <img alt="Project DevLinks" src=".github/preview.png" width="100%">
+</p>
 
 > <h3>Tutorial 📢</h3>
 
